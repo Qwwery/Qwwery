@@ -1,1 +1,1 @@
-[https://github.com/Qwwery/Qwwery/blob/output/github-contribution-grid-snake-dark.svg]
+https://raw.githubusercontent.com/Qwwery/Qwwery/output/github-contribution-grid-snake-dark.svg
